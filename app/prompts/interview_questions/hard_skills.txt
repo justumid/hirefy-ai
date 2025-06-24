@@ -1,0 +1,120 @@
+# Hard Skills Interview Questions – Multilingual (UZ-default)
+
+## Programming & Software Development
+
+Q: Ob'ektga yo'naltirilgan dasturlash (OOP) tamoyillarini tushuntirib bera olasizmi?
+RU: Можете объяснить принципы объектно-ориентированного программирования?
+EN: Can you explain the principles of object-oriented programming (OOP)?
+#tag:programming #oop #software-design
+
+Q: So'nggi loyihangizda qanday texnologiyalar yoki kutubxonalar ishlatilgan?
+RU: Какие технологии или библиотеки вы использовали в последнем проекте?
+EN: What technologies or libraries did you use in your most recent project?
+#tag:tech-stack #experience #software-dev
+
+Q: Git versiya boshqaruv tizimi bilan qanday ishlaysiz?
+RU: Как вы работаете с системой контроля версий Git?
+EN: How do you work with Git version control?
+#tag:git #devops #version-control
+
+## Data & Databases
+
+Q: SQL bo‘yicha qanday savollarni hal qilgansiz? JOIN yoki GROUP BY misoli bilan tushuntiring.
+RU: Приведите пример использования SQL, включая JOIN или GROUP BY.
+EN: Describe a SQL problem you solved. Include JOIN or GROUP BY if relevant.
+#tag:sql #database #query-design
+
+Q: NoSQL va relatsion bazalar orasidagi farq nima?
+RU: В чем разница между NoSQL и реляционными базами данных?
+EN: What’s the difference between NoSQL and relational databases?
+#tag:nosql #rdbms #database-architecture
+
+Q: Ma’lumotlar migratsiyasi bilan ishlaganmisiz? Qanday vositalardan foydalandingiz?
+RU: Вы работали с миграциями данных? Какие инструменты использовали?
+EN: Have you worked on data migrations? What tools did you use?
+#tag:data-migration #etl #database-tools
+
+## Web Development
+
+Q: Frontendda sizga eng qulay framework qaysi? Nima uchun?
+RU: Какой frontend-фреймворк вам наиболее удобен и почему?
+EN: Which frontend framework do you prefer and why?
+#tag:frontend #framework #javascript
+
+Q: Backend arxitekturasi haqida ayting – REST, GraphQL va JWT haqida bilasizmi?
+RU: Расскажите о backend-архитектуре. Знаете ли вы о REST, GraphQL и JWT?
+EN: Explain backend architecture. Are you familiar with REST, GraphQL, and JWT?
+#tag:backend #api-design #security
+
+Q: Web-sayt xavfsizligini qanday ta’minlaysiz?
+RU: Как вы обеспечиваете безопасность веб-сайта?
+EN: How do you ensure the security of a website?
+#tag:web-security #xss #csrf
+
+## DevOps & Infrastructure
+
+Q: CI/CD jarayonlarini tushuntirib bera olasizmi? Qanday asboblardan foydalandingiz?
+RU: Можете объяснить процесс CI/CD? Какие инструменты вы использовали?
+EN: Can you explain the CI/CD process? What tools have you used?
+#tag:devops #ci-cd #automation
+
+Q: Docker va konteynerlashtirish bilan ishlaganmisiz?
+RU: Вы работали с Docker и контейнеризацией?
+EN: Have you worked with Docker and containerization?
+#tag:docker #containerization #infrastructure
+
+Q: Monitoring va loglash uchun qanday vositalarni ishlatgansiz?
+RU: Какие инструменты вы использовали для мониторинга и логирования?
+EN: What tools have you used for monitoring and logging?
+#tag:monitoring #observability #logging
+
+## Machine Learning & Data Science
+
+Q: Ma’lumotlarni tozalash va tayyorlash bo‘yicha tajribangiz bormi?
+RU: Есть ли у вас опыт подготовки и очистки данных?
+EN: Do you have experience with data cleaning and preparation?
+#tag:data-preprocessing #data-cleaning #ml
+
+Q: Modellarni qanday qilib baholaysiz? ROC AUC, F1-score haqida bilasizmi?
+RU: Как вы оцениваете модели? Знаете ли вы про ROC AUC или F1-оценку?
+EN: How do you evaluate models? Are you familiar with ROC AUC or F1-score?
+#tag:model-evaluation #metrics #mlops
+
+Q: So‘nggi ML loyihangiz haqida qisqacha ayting.
+RU: Кратко опишите ваш последний проект в области машинного обучения.
+EN: Briefly describe your most recent machine learning project.
+#tag:ml-project #usecase #model-deployment
+
+## Cybersecurity & Networking
+
+Q: Tarmoq xavfsizligi bo‘yicha qanday choralarni ko‘rgansiz?
+RU: Какие меры по безопасности сети вы предпринимали?
+EN: What network security measures have you implemented?
+#tag:cybersecurity #networking #firewall
+
+Q: DDoS hujumlarini aniqlash va bartaraf qilish haqida nima deya olasiz?
+RU: Что вы знаете о выявлении и предотвращении DDoS-атак?
+EN: What do you know about detecting and mitigating DDoS attacks?
+#tag:ddos #mitigation #network-defense
+
+Q: SSH, VPN yoki TLS haqida tajribangiz bormi?
+RU: Есть ли у вас опыт работы с SSH, VPN или TLS?
+EN: Do you have experience working with SSH, VPN, or TLS?
+#tag:network-protocols #ssh #tls #vpn
+
+## QA & Testing
+
+Q: Avtomatlashtirilgan testlarni yozishda qanday frameworklardan foydalandingiz?
+RU: Какие фреймворки вы использовали для написания автотестов?
+EN: What frameworks have you used for writing automated tests?
+#tag:qa #automation #pytest #selenium
+
+Q: Unit test va integration test farqlarini bilasizmi?
+RU: Знаете ли вы разницу между unit-тестами и интеграционными тестами?
+EN: Do you know the difference between unit and integration tests?
+#tag:unit-test #integration-test #qa
+
+Q: Bug tracking va issue management uchun qanday tizimlardan foydalangansiz?
+RU: Какие системы вы использовали для отслеживания багов и управления задачами?
+EN: What tools have you used for bug tracking and issue management?
+#tag:bug-tracking #jira #project-management

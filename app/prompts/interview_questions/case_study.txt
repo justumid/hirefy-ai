@@ -1,0 +1,76 @@
+# Case Study Questions – Multilingual (UZ-default)
+
+## Product & Technical Decision-Making
+
+Q: Sizga bir web-ilova ishga tushurilishi topshirildi. Ilova foydalanuvchilari bir oyda 100 mingga yetishi mumkin. Qanday arxitektura tanlaysiz va nega?
+RU: Вам поручено запустить веб-приложение, которое может достичь 100 тыс. пользователей в месяц. Какую архитектуру вы выберете и почему?
+EN: You've been tasked with launching a web application expected to reach 100,000 users per month. What architecture would you choose and why?
+#tag:architecture #scalability #design-thinking
+
+Q: Tizimda kechikish (latency) ko‘payib ketgan. Buni qanday aniqlaysiz va optimallashtirasiz?
+RU: В системе увеличилась задержка. Как вы это обнаружите и оптимизируете?
+EN: The system is experiencing high latency. How would you identify and optimize it?
+#tag:performance #monitoring #optimization
+
+Q: Startap uchun MVP yaratish kerak. 2 haftalik vaqt bor. Qanday rejalashtirasiz?
+RU: Нужно создать MVP для стартапа за 2 недели. Как вы это спланируете?
+EN: You need to build an MVP for a startup in 2 weeks. How would you plan it?
+#tag:product-management #mvp #agile
+
+## Conflict Resolution & Team Collaboration
+
+Q: Jamoada texnik fikrlar to‘qnashuviga duch keldingizmi? Qanday yondashgan edingiz?
+RU: Сталкивались ли вы с техническими разногласиями в команде? Как вы с этим справились?
+EN: Have you encountered technical disagreements in a team? How did you handle them?
+#tag:teamwork #conflict-resolution #communication
+
+Q: Senior developer arxitekturani o‘zgartirmoqchi, lekin siz bunga qarshisiz. Nima qilasiz?
+RU: Старший разработчик хочет изменить архитектуру, но вы не согласны. Ваши действия?
+EN: A senior developer wants to change the architecture, but you disagree. What do you do?
+#tag:stakeholder-management #team-dynamics
+
+## Incident & Crisis Management
+
+Q: Ishlayotgan paytda asosiy xizmatlar ishdan chiqdi. Siz rahbarmisiz – qanday harakat qilasiz?
+RU: Во время работы упали основные сервисы. Вы лидер – ваши действия?
+EN: During production, core services crash. You're the team lead – how do you respond?
+#tag:incident-response #leadership #sla
+
+Q: Kodni live serverga push qilganingizdan so'ng, foydalanuvchilar xatoliklar haqida shikoyat qila boshladi. Dastlabki harakatlaringiz?
+RU: После деплоя пользователи начали жаловаться на ошибки. Что вы сделаете в первую очередь?
+EN: After deployment, users start reporting bugs. What are your first steps?
+#tag:rollback #debugging #release-management
+
+## Strategy, Metrics & Impact
+
+Q: Siz ishlab chiqqan modul foydalanishda kam uchrayotganini bilib qoldingiz. Qanday choralar ko‘rasiz?
+RU: Вы узнали, что разработанный вами модуль редко используется. Что предпримете?
+EN: You realize the module you built is rarely used. What actions would you take?
+#tag:feature-usage #user-feedback #product-impact
+
+Q: Jamoada yangi monitoring tizimi joriy qilmoqchisiz. Boshqalarga qanday tushuntirasiz va rozi qilasiz?
+RU: Вы хотите внедрить новую систему мониторинга. Как объясните команде и убедите их?
+EN: You plan to introduce a new monitoring system. How will you explain and get buy-in?
+#tag:monitoring #change-management #influence
+
+Q: Loyihani optimallashtirish uchun qanday metrikalarni kuzatasiz?
+RU: Какие метрики вы отслеживаете для оптимизации проекта?
+EN: What metrics do you track to optimize a project?
+#tag:metrics #kpi #project-success
+
+## UX, Compliance & Business Alignment
+
+Q: Foydalanuvchi interfeysi bo‘yicha biror qaror mahsulotda muammoga sabab bo‘ldi. Sizning harakatingiz?
+RU: Решение по интерфейсу привело к проблемам. Что вы сделаете?
+EN: A UX decision caused issues in production. What would you do?
+#tag:ux #usability #root-cause
+
+Q: Yangi tizimni GDPR yoki mahalliy qonunlarga mos qilish uchun qanday tekshirasiz?
+RU: Как вы проверяете соответствие системы требованиям GDPR или местных законов?
+EN: How do you ensure a system is compliant with GDPR or local laws?
+#tag:compliance #gdpr #data-privacy
+
+Q: Mijoz biznesining maqsadi bilan texnik echim orasidagi muvozanatni qanday saqlaysiz?
+RU: Как вы балансируете между техническим решением и бизнес-целями клиента?
+EN: How do you balance a client’s business goals with technical implementation?
+#tag:business-alignment #tradeoffs #solution-design

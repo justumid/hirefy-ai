@@ -1,0 +1,69 @@
+[INSTRUCTION]
+Write a polite and professional job rejection letter.
+
+[REQUIREMENTS]
+- Maintain a respectful and empathetic tone
+- Clearly state the rejection but encourage the candidate
+- Include company name and position title
+- Optionally suggest future opportunities
+- Use a human-like tone (not robotic)
+
+[TONE]
+{{ tone | default: "formal" }}
+
+[LANGUAGE]
+{{ language | default: "en" }}
+
+[INPUTS]
+Company: {{ company }}
+Candidate Name: {{ candidate_name }}
+Job Title: {{ job_title }}
+Rejection Reason (optional): {{ reason | default: "We had many strong applicants, and it was a difficult decision." }}
+
+[TEMPLATE]
+
+ENGLISH VERSION:
+Subject: Application Update – {{ job_title }} at {{ company }}
+
+Dear {{ candidate_name }},
+
+Thank you for your interest in the {{ job_title }} position at {{ company }}. We truly appreciate the time and effort you invested in your application and interview process.
+
+After careful consideration, we regret to inform you that we have decided to move forward with another candidate. {{ reason }}
+
+This decision was not easy, and we sincerely hope you will consider applying for future opportunities with us. We wish you the very best in your career journey.
+
+Warm regards,  
+{{ company }} Recruitment Team
+
+---
+
+UZBEK VERSION:
+Mavzu: Arizangiz bo‘yicha yangilik – {{ company }} kompaniyasidagi {{ job_title }} lavozimi
+
+Hurmatli {{ candidate_name }},
+
+{{ company }} kompaniyasidagi {{ job_title }} lavozimiga bildirgan qiziqishingiz va saralash jarayonida qatnashganingiz uchun samimiy minnatdorchiligimizni bildiramiz.
+
+Afsuski, ko‘p sonli kuchli nomzodlar ichidan boshqa bir nomzodni tanlashga qaror qilganimizni sizga ma’lum qilamiz. {{ reason }}
+
+Kelgusidagi bo‘sh ish o‘rinlarida sizni yana ko‘rishdan xursand bo‘lamiz. Sizga kelajakdagi faoliyatingizda omad va muvaffaqiyatlar tilaymiz.
+
+Hurmat bilan,  
+{{ company }} Ishga qabul qilish bo‘limi
+
+---
+
+RUSSIAN VERSION:
+Тема: Результаты рассмотрения вашей заявки – {{ job_title }} в {{ company }}
+
+Уважаемый(ая) {{ candidate_name }},
+
+Благодарим вас за проявленный интерес к вакансии {{ job_title }} в компании {{ company }} и за уделенное время.
+
+После внимательного рассмотрения всех кандидатов, мы приняли решение продолжить работу с другим претендентом. {{ reason }}
+
+Тем не менее, мы надеемся на возможность сотрудничества в будущем и желаем вам успехов в профессиональной деятельности.
+
+С уважением,  
+Команда по подбору персонала {{ company }}

@@ -1,0 +1,103 @@
+# Soft Skills Interview Questions – Multilingual (UZ-default)
+
+## Adaptability & Problem Solving
+
+Q: Qiyin vaziyatda qanday qaror qabul qilgansiz? Misol bilan tushuntiring.
+RU: Расскажите о случае, когда вам пришлось принять трудное решение.
+EN: Tell me about a time you had to make a difficult decision.
+#tag:decision-making #adaptability
+
+Q: Ishdagi muammolarga qanday yondashasiz va ularni qanday hal qilasiz?
+RU: Как вы решаете рабочие проблемы?
+EN: How do you approach and solve problems at work?
+#tag:problem-solving #critical-thinking
+
+Q: Oxirgi daqiqada o‘zgargan topshiriqqa qanday moslashgansiz?
+RU: Как вы справлялись с изменениями в последнюю минуту?
+EN: How have you adapted to a last-minute change in a task?
+#tag:adaptability #resilience
+
+## Communication & Emotional Intelligence
+
+Q: O‘z fikringizni tushunarli yetkazish uchun qanday usullardan foydalanasiz?
+RU: Какие методы вы используете, чтобы ясно донести свою точку зрения?
+EN: What strategies do you use to clearly communicate your thoughts?
+#tag:communication #clarity
+
+Q: Kimgadir noqulay fikr bildirishga to‘g‘ri kelganda qanday yondashuv tanlaysiz?
+RU: Как вы даете конструктивную обратную связь, даже если это неприятно?
+EN: How do you give constructive feedback even when it's uncomfortable?
+#tag:feedback #empathy #communication
+
+Q: Qachonki sizga tanqid qilingan bo‘lsa, qanday munosabat bildirgansiz?
+RU: Как вы реагируете на конструктивную критику?
+EN: How do you respond to constructive criticism?
+#tag:feedback-reception #emotional-intelligence
+
+## Teamwork & Collaboration
+
+Q: Yaxshi jamoaviy ish misolini keltiring. Sizning rolingiz qanday bo‘lgan?
+RU: Приведите пример успешной командной работы. Какова была ваша роль?
+EN: Describe a successful team project. What was your role?
+#tag:teamwork #collaboration
+
+Q: Agar jamoa a'zosi bilan fikrlar farqlansa, uni qanday hal qilasiz?
+RU: Что вы делаете, если не согласны с коллегой по команде?
+EN: What do you do when you disagree with a team member?
+#tag:conflict-resolution #teamwork
+
+Q: Jamoada nizolar yuzaga kelganda qanday vositalardan foydalanasiz?
+RU: Как вы решаете конфликты внутри команды?
+EN: How do you resolve conflicts within a team?
+#tag:conflict-resolution #negotiation
+
+## Time Management & Accountability
+
+Q: Bir nechta vazifani qanday qilib samarali boshqarasiz?
+RU: Как вы управляете несколькими задачами одновременно?
+EN: How do you manage multiple tasks effectively?
+#tag:time-management #productivity
+
+Q: Vazifalarni ustuvorlashtirishda qanday mezonlarga e'tibor berasiz?
+RU: Какие приоритеты вы устанавливаете в работе?
+EN: How do you prioritize your tasks?
+#tag:prioritization #organization
+
+Q: Muddatlarga qanday rioya qilasiz? Biror kechikkan loyihani qanday boshqargansiz?
+RU: Как вы соблюдаете сроки? Расскажите о случае, когда был риск опоздания.
+EN: How do you meet deadlines? Describe a time you nearly missed one.
+#tag:deadline-management #ownership
+
+## Integrity, Motivation & Work Ethic
+
+Q: Sizni ishingizda eng ko‘p nima rag‘batlantiradi?
+RU: Что вас мотивирует на работе?
+EN: What motivates you at work?
+#tag:motivation #intrinsic-values
+
+Q: Ishda halollik siz uchun nimani anglatadi?
+RU: Что для вас значит честность в работе?
+EN: What does integrity mean to you at work?
+#tag:integrity #ethics
+
+Q: Sizningcha, kuchli ishchi qanday fazilatlarga ega bo‘lishi kerak?
+RU: Какие качества, по-вашему, важны для хорошего сотрудника?
+EN: What qualities make someone a strong professional?
+#tag:work-ethic #values
+
+## Culture Fit & Initiative
+
+Q: Siz ish joyining madaniyatiga qanday moslashasiz?
+RU: Как вы адаптируетесь к корпоративной культуре?
+EN: How do you adapt to a company’s culture?
+#tag:culture-fit #adaptability
+
+Q: Biror vazifani ko‘rsatmasiz o‘zingiz tashabbus ko‘rsatib bajargan holatni ayting.
+RU: Расскажите о случае, когда вы проявили инициативу.
+EN: Share a time when you took initiative without being asked.
+#tag:initiative #proactivity
+
+Q: Sizningcha, qanday holatda siz jamoaga eng ko‘p hissa qo‘shgansiz?
+RU: В каком случае вы внесли наибольший вклад в команду?
+EN: In what situation did you contribute the most to your team?
+#tag:impact #team-contribution

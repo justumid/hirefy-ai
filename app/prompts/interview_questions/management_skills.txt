@@ -1,0 +1,96 @@
+# Management Skills – Multilingual (UZ-default)
+
+## Team Leadership & Motivation
+
+Q: Jamoangiz motivatsiyasini qanday ushlab turasiz, ayniqsa stressli paytlarda?
+RU: Как вы поддерживаете мотивацию команды, особенно в стрессовые периоды?
+EN: How do you keep your team motivated, especially during stressful periods?
+#tag:leadership #motivation #team-management
+
+Q: Jamoada sust ishlayotgan a'zoga qanday yondashasiz?
+RU: Как вы подходите к члену команды, который работает менее эффективно?
+EN: How do you handle a team member who is underperforming?
+#tag:performance-management #conflict-resolution
+
+Q: Siz yetakchilik qilgan eng samarali jamoa qanday edi va nima uchun u muvaffaqiyatli bo‘lgan?
+RU: Какая команда под вашим руководством была самой эффективной и почему?
+EN: What was the most effective team you led and why was it successful?
+#tag:team-lead #success-factors
+
+## Planning & Decision-Making
+
+Q: Loyihalarni qanday rejalashtirasiz va ustuvorliklarni belgilaysiz?
+RU: Как вы планируете проекты и расставляете приоритеты?
+EN: How do you plan projects and prioritize tasks?
+#tag:project-planning #prioritization
+
+Q: Qanday hollarda tez, ammo cheklangan ma'lumot bilan qaror qabul qilgansiz?
+RU: В каких ситуациях вы принимали решения с ограниченной информацией?
+EN: Describe a time you had to make a decision quickly with limited information.
+#tag:decision-making #critical-thinking
+
+Q: Bir nechta manfaatdor tomonlar qarama-qarshi fikr bildirganda, qanday qaror qilasiz?
+RU: Как вы поступаете, когда заинтересованные стороны высказывают противоречивые мнения?
+EN: How do you decide when stakeholders present conflicting viewpoints?
+#tag:stakeholder-management #decision-strategy
+
+## Delegation & Ownership
+
+Q: Vazifalarni topshirishda qanday tamoyillarga amal qilasiz?
+RU: Какими принципами вы руководствуетесь при делегировании задач?
+EN: What principles guide you when delegating responsibilities?
+#tag:delegation #ownership #trust
+
+Q: Jamoangizda mustaqil fikrlash va mulkchilik ruhini qanday rivojlantirasiz?
+RU: Как вы развиваете дух самостоятельности и ответственности в команде?
+EN: How do you promote independent thinking and ownership in your team?
+#tag:team-culture #responsibility
+
+## Communication & Conflict Resolution
+
+Q: Rahbar sifatida siz ochiq va samarali muloqotni qanday ta'minlaysiz?
+RU: Как вы, как руководитель, обеспечиваете открытую и эффективную коммуникацию?
+EN: As a manager, how do you ensure open and effective communication?
+#tag:communication #transparency
+
+Q: Qanday qilib siz qiyin muloqotlarni – masalan, ishdan bo‘shatish yoki tanqidiy fikrlar – olib borasiz?
+RU: Как вы проводите сложные разговоры – например, об увольнении или критике?
+EN: How do you conduct difficult conversations, such as delivering critical feedback or terminations?
+#tag:feedback #difficult-conversations #hr
+
+## KPI, Metrics & Performance Review
+
+Q: Jamoa samaradorligini qanday o‘lchaysiz? Qanday ko‘rsatkichlardan foydalanasiz?
+RU: Как вы измеряете эффективность команды? Какие метрики используете?
+EN: How do you measure team effectiveness? What metrics do you use?
+#tag:kpi #metrics #team-performance
+
+Q: O‘zaro ishlash va natijadorlikni baholashda qanday yondashuvga egasiz?
+RU: Каков ваш подход к оценке взаимодействия и продуктивности в команде?
+EN: What is your approach to evaluating collaboration and productivity?
+#tag:performance-review #evaluation #collaboration
+
+## Change Management
+
+Q: Katta o‘zgarishlar jarayonida jamoani qanday tayyorlaysiz va yondashasiz?
+RU: Как вы подготавливаете команду к большим изменениям?
+EN: How do you prepare and lead your team through major changes?
+#tag:change-management #adaptability
+
+Q: Jamoa yangicha jarayon yoki vositani qabul qilishga qarshilik qilganda, qanday ish tutasiz?
+RU: Что вы делаете, если команда сопротивляется внедрению нового инструмента или процесса?
+EN: What do you do when the team resists adopting a new tool or process?
+#tag:transformation #adoption #leadership
+
+## Cross-functional Collaboration
+
+Q: Boshqa bo‘limlar bilan muvofiqlashtirishda qanday yondashuvda bo‘lasiz?
+RU: Как вы работаете с другими отделами?
+EN: How do you collaborate with cross-functional teams?
+#tag:cross-functional #coordination #interdepartmental
+
+Q: Boshqa rahbarlar bilan ixtilofga tushgan paytingiz bo‘lganmi? Qanday hal qildingiz?
+RU: Были ли у вас конфликты с другими менеджерами? Как вы их решали?
+EN: Have you ever had a conflict with another manager? How did you resolve it?
+#tag:leadership-conflict #collaboration
+

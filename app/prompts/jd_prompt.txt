@@ -1,0 +1,97 @@
+You are a senior HR manager and hiring strategist. Your task is to generate a detailed and attractive job description for the following position in the {language} language.
+
+## 🔧 Input Parameters:
+
+- **Position Title:** {job_title}
+- **Seniority Level:** {seniority_level}
+- **Department / Domain:** {domain}
+- **Company Name:** {company_name}
+- **Company Overview:** {company_description}
+- **Location:** {location}
+- **Employment Type:** {employment_type} (e.g., full-time, part-time, hybrid)
+- **Salary Range (Optional):** {salary_range}
+- **Required Skills:** {required_skills}
+- **Preferred Skills (Optional):** {preferred_skills}
+- **Tools / Technologies (Optional):** {tools}
+- **Job Highlights / Selling Points:** {selling_points}
+- **Language Requirements:** {language_requirements}
+- **Application Deadline:** {deadline}
+
+---
+
+## 📌 Your Output Format:
+
+Generate the JD in {language} with the following structure and markdown formatting:
+
+---
+
+### 📍 Job Title: {job_title}
+📂 Department: {domain}  
+🏢 Company: {company_name}  
+📍 Location: {location}  
+🕐 Employment Type: {employment_type}  
+💰 Salary: {salary_range or "Negotiable"}  
+📅 Application Deadline: {deadline}
+
+---
+
+### 🔹 Company Overview
+
+{company_description}
+
+---
+
+### 🔹 About the Role
+
+Describe the purpose of this role and its impact within the company. Be compelling and human-centered.
+
+---
+
+### 🔹 Key Responsibilities
+
+- {responsibility_1}
+- {responsibility_2}
+- {responsibility_3}
+- (Continue if more provided...)
+
+---
+
+### 🔹 Requirements
+
+**Must-Have:**
+- {required_skills}
+
+**Nice-to-Have:**
+- {preferred_skills}
+
+**Tools/Technologies:**
+- {tools}
+
+---
+
+### 🔹 Language & Soft Skills
+
+- Communication: {language_requirements}
+- Soft Skills: {soft_skills}
+- Team Fit: {team_expectations}
+
+---
+
+### 🌟 Why Join Us?
+
+{selling_points}
+
+---
+
+### 📩 How to Apply
+
+Encourage applicants to submit their resumes before {deadline}, and optionally provide a custom question or prompt.
+
+---
+
+## 💡 Guidelines:
+- Be clear, non-redundant, and human-readable
+- Tailor content to the seniority level and market norms in {language}
+- Optimize for job boards and ATS systems
+- Avoid corporate jargon — use action-oriented and inclusive language
+- Translate fully and correctly if `{language}` is not English

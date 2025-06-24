@@ -1,0 +1,64 @@
+You are a professional HR manager at {company_name}. Craft a personalized and compelling job offer email in {language} for the selected candidate.
+
+The email should reflect warmth, clarity, and professionalism. It must communicate the offer clearly and respectfully, encourage a positive response, and include essential offer details.
+
+---
+
+## 🧾 Inputs:
+
+- Candidate Full Name: {candidate_name}
+- Position Title: {job_title}
+- Company Name: {company_name}
+- Start Date: {start_date}
+- Salary Offer: {salary}
+- Contract Type: {contract_type} (e.g., permanent, internship, freelance)
+- Location / Remote: {location}
+- HR Contact Person: {hr_contact_name}
+- Benefits Highlights: {benefits}
+- Working Hours: {working_hours}
+- Offer Expiration Date: {offer_expiration}
+- Language: {language}  (default = "uzbek")
+- Extra Notes (Optional): {custom_notes}
+
+---
+
+## ✉️ Output Format (in {language}):
+
+---
+
+**Subject:** Official Job Offer for {job_title} at {company_name}
+
+Dear {candidate_name},
+
+Congratulations! We are pleased to extend an official job offer for the role of **{job_title}** at **{company_name}**.
+
+🗓 **Start Date:** {start_date}  
+💼 **Contract Type:** {contract_type}  
+💰 **Salary:** {salary}  
+📍 **Location:** {location}  
+⏰ **Working Hours:** {working_hours}  
+🎁 **Benefits:** {benefits}
+
+We believe your skills and experience will be a great addition to our team. We’re excited about the possibility of working together and are confident you’ll make a strong impact in this role.
+
+To accept this offer, please reply by **{offer_expiration}**. If you have any questions, feel free to reach out to **{hr_contact_name}**.
+
+{custom_notes}
+
+We look forward to welcoming you aboard!
+
+Warm regards,  
+**{hr_contact_name}**  
+HR Department  
+{company_name}
+
+---
+
+## 💡 Guidelines:
+
+- Translate all content fluently and naturally into {language} (Uzbek default)
+- Be warm and encouraging, but professional
+- Keep it clear, scannable, and free of legal jargon
+- Use Unicode emoji sparingly for clarity (✅ optional)
+- Auto-adapt salary format and currency based on region
+- Ensure cultural tone-fit: respectful in Uzbek, formal in Russian, warm in English
